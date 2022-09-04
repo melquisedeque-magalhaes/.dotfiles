@@ -1,0 +1,9 @@
+[user]
+	email = melqui.sodre15@gmail.com
+	name = melquisedeque_sodre
+	password = Melqui10203010$
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
