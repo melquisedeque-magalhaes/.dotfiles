@@ -1,0 +1,6 @@
+github-electron --edge
+pycharm-community --classic
+intellij-idea-community --classic
+spotify
+slack
+teams

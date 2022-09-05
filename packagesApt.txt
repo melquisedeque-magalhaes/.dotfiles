@@ -1,0 +1,7 @@
+code
+insomnia
+hyper
+virtualbox
+zsh
+snapd
+git
