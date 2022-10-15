@@ -8,3 +8,4 @@ prospect-mail
 icloud-for-linux  
 android-studio --classic
 figma-linux
+notion-snap
