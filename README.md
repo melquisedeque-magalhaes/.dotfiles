@@ -4,6 +4,8 @@
 ```sh
 ### Instalando Todos os programas no linux
 chmod +x scriptAutomationInstallApps.sh
+
+### executando o script
 ./scriptAutomationInstallApps.sh
 
 ### Setup dot dotfiles
@@ -12,3 +14,6 @@ cd ~/.dotfiles
 ln -s ~/.dotfiles/.zshrc ~/.zshrc
 ln -s ~/.dotfiles/.gitconfig ~/.gitconfig
 ln -s ~/.dotfiles/.hyper.js ~/.hyper.js
+```
+
+obs: talvez tenha que alterar o diretorio no script, uso o comando pwd para verificar o diretorio atual.
