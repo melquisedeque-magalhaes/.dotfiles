@@ -1,6 +1,6 @@
 #!/bin/bash
 
-directory=/home/melqui/.dotfiles/packages/
+directory=/home/melqui/melqui/.dotfiles/packages
 
 apt_install() {
   apt_packages="$directory/packagesApt.txt"
